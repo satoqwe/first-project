@@ -1,3 +1,17 @@
-.text {
-    font-size: 40px;
+.h1 {
+    font-size: 60px;
+    display: flex;
+    margin: auto;
+    font-style: italic;
+    flex-wrap: wrap-reverse;
+}
+.title {
+    font-size: 35;
+    display: inline;
+}
+.h2 {
+    font-size: 50px;
+    display: flex;
+    margin: auto;
+    font-style: italic;
 }
